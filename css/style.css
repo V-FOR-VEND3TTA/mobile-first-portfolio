@@ -1,0 +1,24 @@
+/* variables */
+:root {
+  --primary: #ffc636;
+  --secondary: #0a0b5b;
+}
+/* reset */
+
+/* base styles */
+
+/* fonts */
+
+/* mobile styles - where we start */
+
+/* Small tablet styles */
+@media screen and (min-width: 620px) {
+}
+
+/* large tablets and laprop styles */
+@media screen and (min-width: 960px) {
+}
+
+/* Desktop styles */
+@media screen and (min-width: 1200px) {
+}
