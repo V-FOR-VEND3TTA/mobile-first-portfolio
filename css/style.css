@@ -192,7 +192,8 @@ h4 {
 #contact h3,
 #contact p {
   text-align: center;
-  margin-bottom: 0;
+  margin-bottom: 20px;
+  margin
 }
 
 #contact form {
@@ -273,6 +274,9 @@ footer img {
   }
   #skills {
     padding: 30px 100px;
+  }
+  #contact h3 {
+    margin: 20px;
   }
   footer {
     background-size: 20%;
